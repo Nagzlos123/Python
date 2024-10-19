@@ -1,0 +1,3 @@
+ HelloWorld- piszE  napisz hell world
+ Capitalise - zamienia zaznaczony tekst na duże litery
+ TableSample - tworzy przykładową tabele z tekstem pod spodem
